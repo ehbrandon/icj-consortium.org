@@ -1,0 +1,4 @@
+name: International Criminal Justice Consortium
+baseurl: http://www.icj-consortium.org
+markdown: redcarpet
+pygments: true
