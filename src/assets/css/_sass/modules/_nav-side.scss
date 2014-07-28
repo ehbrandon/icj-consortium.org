@@ -27,10 +27,12 @@ $sidebar-right-color: #555 !default;
     .content {
         min-width: 0;
         width: 100%;
+
         
           @include media($sidebar-left-breakpoint) {
           min-width: $b-vp;
           width: 100% - $sidebar-width;
+          margin-left:$sidebar-width;
         }
     }
 
@@ -81,6 +83,7 @@ $sidebar-right-color: #555 !default;
         width:100%;
         @include media($sidebar-right-breakpoint) {
             width: 100% - $sidebar-right-width;  
+            margin-left:$sidebar-right-width;
         }
       }
 
@@ -153,20 +156,29 @@ $sidebar-right-color: #555 !default;
               .sidebar-nav {
                 padding-left: 0;
                 list-style: none;
+
+
+                  a {
+                    width: 100%;
+                    color: #f2f2f2;
+                  }
+
               }
-              .sidebar-nav-item {
+              .sidebar-nav-item a {
                 display: block;
-                padding-top: .35em;
-                padding-bottom: .35em;
+                font-weight: bold;
+                padding-top: .5em;
+                padding-bottom: .5em;
               }
-              .sidebar-nav-item:hover,
-              .sidebar-nav-item:focus {
-                text-decoration: underline;
-                //background-color: #000;//darken($sidebar-color-background, 25%);
+              .sidebar-nav-item a:hover,
+              .sidebar-nav-item a:focus {
+                text-decoration: none;
+                background-color: darken($sidebar-color-background, 5%);
               }
               .sidebar-nav-item.active a {
-                //font-weight: bold;
-                color: darken($sidebar-color, 33%);
+                
+                color: darken($sidebar-color, 1%);
+               background-color: darken($sidebar-color-background, 8%);
               }
               hr {
                  margin:1em auto;
@@ -199,4 +211,14 @@ $sidebar-right-color: #555 !default;
       }
             
       }
-}
+} 
+
+@include media($sidebar-left-breakpoint) {
+
+  .content {
+          min-width: $b-vp;
+          width: 100% - $sidebar-width - $sidebar-right-width;
+          margin-left:$sidebar-width;
+          margin-right:$sidebar-right-width;
+        }
+      }

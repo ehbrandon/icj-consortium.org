@@ -18,9 +18,10 @@
       {% include articles/sharing.html %}
     </div>
   {% endif %}
-  {% unless page.comments == false %}
+  
+  {% if section == 'article' and page.comments != false %}
     {% include articles/comments.html %}
-  {% endunless %}
+  {% endif %}
 </div>
 
 <!-- include global/edit.html -->

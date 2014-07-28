@@ -2,5 +2,19 @@
   <img src="/assets/img/icjc-140728a.png" style="max-width:80%;">
 
 
+<nav>
+	<ul class="sidebar-nav">
+		<li class="sidebar-nav-item">
+			<a href="/">Home</a>
+		</li>
+		<li class="sidebar-nav-item{% if page.url contains 'about' %} active{% endif %}">
+			<a href="/about/">About</a>
+		</li>
+		<li class="sidebar-nav-item{% if page.url contains '/proven-practices/' %} active{% endif %}">
+			<a href="/proven-practices/">Proven Practices</a>
+		</li>
+	</ul>
+</nav>
+
 </aside>
 

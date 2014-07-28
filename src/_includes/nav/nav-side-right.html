@@ -1,6 +1,25 @@
+{% assign members = site.data.members %}
+
 <aside class="sidebar-right">
+
+<h3>Members</h3>	
+<ul>
+
+{% for member in members %}
+
+<li>
+	{{member.name}}
+	<ul>
+		<li>
+			<small>{{ member.location}}</small>
+		</li>
+	</ul>
+</li>
 	
-SIDEBAR
+
+</li>
+{% endfor %}
+</ul>
 
 
 </aside>
