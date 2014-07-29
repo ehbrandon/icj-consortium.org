@@ -23,3 +23,8 @@ The ICJC is institutionally-based, with member organisations formally joining th
 ##### CONTACT
 
 For more information contact <kip.hale@icj-consortium.org>
+
+
+Sign up to our mailing list to be notified when the site is updated:
+
+{% include global/mailing-list.html %}
