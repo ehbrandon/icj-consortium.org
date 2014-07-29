@@ -1,6 +1,7 @@
 sitename: International Criminal Justice Consortium
 url: http://www.icj-consortium.org
 source: src
+port: 4001
 # Dependencies
 markdown: kramdown
 include: ['_pages']

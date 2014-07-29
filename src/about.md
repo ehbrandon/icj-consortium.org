@@ -3,6 +3,7 @@ title: About the International Criminal Justice Consortium
 permalink: /about/
 layout: article
 ---
+International criminal justice, or accountability for the international atrocity crimes of genocide, crimes against humanity, war crimes, and aggression, is fundamental to replacing conflict with durable peace. The ICJC is an independent, nonpartisan alliance of international organisations committed to providing practical support to international criminal justice at the national level and at the International Criminal Court (ICC). The work of the ICJC is pro bono, confidential, and driven by the client. The ICJC works with national jurisdictions and the ICC to identify, develop, and implement capacity building activities such as practical legal skills workshops, exchanges of expertise retreats, comparative legal analysis, and other similar collaborations.
 
 ##### International Criminal Justice Consortium (ICJC)
 
