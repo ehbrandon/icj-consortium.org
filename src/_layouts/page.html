@@ -8,7 +8,11 @@ section: page
 <section class="content">
   <article class="hentry {% if page.class %}{{page.class}}{% endif %}">
     {% include articles/article.html %}
+    {% if page.include %}
+  	{% include {{page.include}} %}
+  {% endif %}
   </article>
+
 </section>
 
 

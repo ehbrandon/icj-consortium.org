@@ -1,7 +1,5 @@
 {% assign members = site.data.members %}
-<aside class="sidebar-right">
-	<h4>Member<br />Organizations</h4>	
-	<ul>
+<ul>
 		{% for member in members %}
 			<li>
 				{% if member.link %}
@@ -17,4 +15,3 @@
 			</li>
 	{% endfor %}
 	</ul>
-</aside>

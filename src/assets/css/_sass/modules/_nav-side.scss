@@ -4,17 +4,17 @@
 
 // =============== VARIABLES ===============
 $include-sidebar-left: true;
-$include-sidebar-right: true;
+$include-sidebar-right: false;
 
 
 //These must be in % values to calculate widths
 
-$sidebar-width: 21.6477% !default; 
-$sidebar-right-width: 21.6477% !default;
+$sidebar-width: 38%;//21.6477% !default; 
+$sidebar-right-width: 15.6477% !default;
 $sidebar-left-breakpoint: $d-vp !default;
 $sidebar-right-breakpoint: $e-vp !default;
 
-$sidebar-color-background: #0f70a3;//#333 !default;
+$sidebar-color-background: darken(#0f70a3,80%);//#333 !default;
 $sidebar-color: #CCC !default;
 
 $sidebar-right-color-background: #f7f7f7 !default;
@@ -151,6 +151,8 @@ $sidebar-right-color: #555 !default;
         background-color: $sidebar-color-background; 
         text-align: center !important; 
         color: $sidebar-color;
+        background: url(/assets/img/14389803236_4e5a3c504a_k.jpg);
+        background-repeat: no-repeat;
 
               /* Sidebar nav */
               .sidebar-nav {
@@ -178,7 +180,8 @@ $sidebar-right-color: #555 !default;
               .sidebar-nav-item.active a {
                 
                 color: darken($sidebar-color, 1%);
-               background-color: darken($sidebar-color-background, 8%);
+               //background-color: darken($sidebar-color-background, 8%);
+
               }
               hr {
                  margin:1em auto;
@@ -213,12 +216,12 @@ $sidebar-right-color: #555 !default;
       }
 } 
 
-@include media($sidebar-left-breakpoint) {
+// @include media($sidebar-left-breakpoint) {
 
-  .content {
-          min-width: $b-vp;
-          width: 100% - $sidebar-width - $sidebar-right-width;
-          margin-left:$sidebar-width;
-          margin-right:$sidebar-right-width;
-        }
-      }
+//   .content {
+//           min-width: $b-vp;
+//           width: 100% - $sidebar-width - $sidebar-right-width;
+//           margin-left:$sidebar-width;
+//           margin-right:$sidebar-right-width;
+//         }
+//       }
