@@ -9,7 +9,7 @@ $include-sidebar-right: false;
 
 //These must be in % values to calculate widths
 
-$sidebar-width: 38%;//21.6477% !default; 
+$sidebar-width: 38%;//21.6477% !default;
 $sidebar-right-width: 15.6477% !default;
 $sidebar-left-breakpoint: $d-vp !default;
 $sidebar-right-breakpoint: $e-vp !default;
@@ -28,7 +28,7 @@ $sidebar-right-color: #555 !default;
         min-width: 0;
         width: 100%;
 
-        
+
           @include media($sidebar-left-breakpoint) {
           min-width: $b-vp;
           width: 100% - $sidebar-width;
@@ -40,14 +40,14 @@ $sidebar-right-color: #555 !default;
         overflow: hidden;
         width: 100%;
         height: auto;
-        position: static;    
+        position: static;
         color: #777;
 
         a {
           color: #505050;
         }
 
-            
+
         @include media($sidebar-left-breakpoint) {
           width: $sidebar-width;
           height: 100%;
@@ -63,7 +63,7 @@ $sidebar-right-color: #555 !default;
 @else {
     .sidebar-left {
         display:none;
-    
+
     }
 }
 
@@ -77,12 +77,12 @@ $sidebar-right-color: #555 !default;
 
 @if $include-sidebar-right != false {
 
-  
 
-      .content {        
+
+      .content {
         width:100%;
         @include media($sidebar-right-breakpoint) {
-            width: 100% - $sidebar-right-width;  
+            width: 100% - $sidebar-right-width;
             margin-left:$sidebar-right-width;
         }
       }
@@ -93,20 +93,20 @@ $sidebar-right-color: #555 !default;
         width: 100%;
         height: auto;
         position: static;
-        
+
 
     @include media($sidebar-left-breakpoint, $sidebar-right-breakpoint) {
 
       @if $include-sidebar-left != false {
           margin-left: $sidebar-width;
-          
+
             width: 100% - $sidebar-width;
-            
-            }            
+
+            }
 
 }
 
-            
+
         @include media($sidebar-right-breakpoint) {
           width: $sidebar-right-width;
           height: 100%;
@@ -115,8 +115,8 @@ $sidebar-right-color: #555 !default;
           right: 0;
           overflow-y: scroll;
           -webkit-overflow-scrolling: touch;
-          
-          
+
+
 
         }
     }
@@ -143,16 +143,17 @@ $sidebar-right-color: #555 !default;
 // =============== STYLING ===============
 
 @if $include-sidebar-left != false {
-  
+
     .sidebar-left {
 
         text-align: center;
         padding: 2rem 0;
-        background-color: $sidebar-color-background; 
-        text-align: center !important; 
+        background-color: $sidebar-color-background;
+        text-align: center !important;
         color: $sidebar-color;
         background: url(/assets/img/icc-courtroom-b.jpg);
         background-repeat: no-repeat;
+        background-position:left top;
 
               /* Sidebar nav */
               .sidebar-nav {
@@ -178,7 +179,7 @@ $sidebar-right-color: #555 !default;
                 background-color: darken($sidebar-color-background, 5%);
               }
               .sidebar-nav-item.active a {
-                
+
                 color: darken($sidebar-color, 1%);
                //background-color: darken($sidebar-color-background, 8%);
 
@@ -192,10 +193,10 @@ $sidebar-right-color: #555 !default;
 
 @if $include-sidebar-right != false {
 
-      
+
       .sidebar-right {
         text-align: left;
-        
+
         padding: 2em 7em 4em 2em;
         background-color: $sidebar-right-color-background;
         color: $sidebar-right-color;
@@ -212,9 +213,9 @@ $sidebar-right-color: #555 !default;
           margin-bottom: 10% !important;
         }
       }
-            
+
       }
-} 
+}
 
 // @include media($sidebar-left-breakpoint) {
 
