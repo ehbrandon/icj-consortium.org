@@ -9,7 +9,7 @@ include: ['_pages']
 exclude: ['readme.md','license.md','Gemfile','links.jsonp', 'CNAME']
 
 permalinks: pretty
-production: false
+production: true
 use_jquery_cdn: false
 include_addthis_sharing: true
 bust_css_cache: true
@@ -31,3 +31,23 @@ defaults:
     type: page
    values:
     layout: page
+
+prose:
+  site: http://www.icj-consortium.org
+  media: 'assets/img'
+  ignore:
+    - _includes
+    - _layouts
+    - 404.md
+  metadata:
+    _book:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          placeholder: "Book Title"
+          value: "Book Title"
+      - name: "subtitle"
+        field:
+          element: "text"
+          label: "Subtitle"

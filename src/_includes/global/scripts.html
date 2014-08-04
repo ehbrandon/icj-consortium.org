@@ -9,7 +9,7 @@ function downloadJSAtOnload() {
   document.body.appendChild(element);
   var element_addthis = document.createElement("script");
   element_addthis.src = "//s7.addthis.com/js/300/addthis_widget.js{% if site.addthis_id %}#pubid={{site.addthis_id}}{% endif %}";
-  document.body.appendChild(element_addthis);  
+  document.body.appendChild(element_addthis);
 }
 if (window.addEventListener)
 window.addEventListener("load", downloadJSAtOnload, false);
@@ -18,5 +18,3 @@ window.attachEvent("onload", downloadJSAtOnload);
 else window.onload = downloadJSAtOnload;
 </script>
 
-
-    
