@@ -156,7 +156,17 @@ $sidebar-right-color: #555 !default;
 
         background-repeat: no-repeat;
         //background-position:70% 2%;
-        background-position: left top;
+//        background-position: left top;
+
+        // background: url(/assets/img/teststock-photo-12926674-justice-statue.jpg);
+        // background-position: center 20%;
+
+        background: url(/assets/img/test2-shutterstock_122218906.jpg);
+
+        background-position: 70% 3%;
+            @include media($sidebar-right-breakpoint) {
+              background-position: 80% 10%;
+            }
 
               /* Sidebar nav */
               .sidebar-nav {
