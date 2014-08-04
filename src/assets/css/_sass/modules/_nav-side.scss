@@ -151,9 +151,12 @@ $sidebar-right-color: #555 !default;
         background-color: $sidebar-color-background;
         text-align: center !important;
         color: $sidebar-color;
-        background: url(/assets/img/icc-courtroom-b.jpg);
+        //background: url(/assets/img/icc-courtroom-b.jpg);
+        background: url(/assets/img/statue-bg-image.jpg);
+
         background-repeat: no-repeat;
-        background-position:20% center;
+        //background-position:70% 2%;
+        background-position: left top;
 
               /* Sidebar nav */
               .sidebar-nav {
