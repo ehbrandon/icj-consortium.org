@@ -1,0 +1,20 @@
+{% assign members = site.data.members %}
+<aside class="sidebar-right">
+	<h4>Member<br />Organizations</h4>	
+	<ul>
+		{% for member in members %}
+			<li>
+				{% if member.link %}
+					<strong><a href="{{ member.link }}" target="_blank">{{ member.name }}</a></strong>
+				{% else %}
+					<strong>{{member.name}}</strong>
+				{% endif %}
+				<ul>
+					<li>
+						<small>{{ member.location}}</small>
+					</li>
+				</ul>
+			</li>
+	{% endfor %}
+	</ul>
+</aside>

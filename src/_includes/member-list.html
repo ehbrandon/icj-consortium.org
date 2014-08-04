@@ -1,0 +1,20 @@
+{% assign members = site.data.members %}
+<ul class="boxed-list">
+	{% for member in members %}
+		{% if member.link %}
+			<a href="{{ member.link }}" target="_blank">
+				<li>
+					<strong>{{ member.name }}</strong>
+					<br />
+					<small>{{ member.location}}</small>
+				</li>
+			</a>
+		{% else %}
+			<li>
+				<strong>{{member.name}}</strong>
+				<br />
+				<small>{{ member.location}}</small>
+			</li>
+		{% endif %}
+	{% endfor %}
+</ul>

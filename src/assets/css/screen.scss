@@ -1,0 +1,49 @@
+---
+---
+
+// REQUIRED
+@import "libs/_normalize";
+@import "libs/bourbon/bourbon";
+@import "base/base";
+@import "libs/neat/neat";
+
+@import "modules/nav-side";
+@import "modules/article";
+// body {background-color:#222;color:#999;
+// h1 {
+// 	color:white;
+// }
+// }
+
+
+ul.boxed-list li {
+
+	height: 8em;
+	width:18em;
+	float:left;
+	margin-right:1.5em;
+	margin-bottom:1.5em;
+	padding:.75em 1em .5em 1em;
+	background-color:#f6f6f6;
+	border:1px solid #ccc;
+
+		border-radius:3px;
+}
+
+ul.boxed-list a:hover li {
+	background-color:darken(#f6f6f6, 5%);
+}
+aside li ul li {
+	margin-bottom:1em;
+}
+
+// body.home {
+// 	background-color:darken(#0f70a3, 3%);
+// 	color: #f6f6f6;
+// 	h1 {
+// 		color: white;
+// 	}
+// 	blockquote {
+// 		color: #f7f7f7;
+// 	}
+// }

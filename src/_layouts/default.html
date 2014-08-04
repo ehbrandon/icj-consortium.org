@@ -1,0 +1,11 @@
+{% include global/head.html %}
+	<body class="{{page.section}}{% if page.category %} {{ page.category | replace: ' ','-' | downcase}}{% endif %}{% if page.categories %} {{page.categories | first}}{% endif %}{% if page.splash_image %} content_splash{% endif %}{% if page.class %} {{page.class}}{% endif %}">
+		
+		{% include nav/nav-side-left.html %}		
+				{% include global/page-splash.html %}		
+		{{content}}
+	<!-- include nav/nav-side-right.html -->
+		{% include global/scripts.html %}
+	</body>
+</html>
+

@@ -1,0 +1,13 @@
+language: ruby
+rvm:
+- 2.1.2
+script: bundle exec jekyll build
+install: bundle install
+after_success: bundle exec s3_website push
+branches:
+  only:
+  - master
+env:
+  global:
+  - secure: OXSFn/XReJMjlz5ilhM9zn82mTJFadKQzUGNQcIJyldHSQVDIFD3c/XuluJ8Esr6VvnLhRybEvhvmvQaHPdRO36HVnoEkDSm0dqe6heugEilyq0gUSFSjeDjg0uoGzdnJXK9z7j2jbl6h868cx8mF6nFqE5ri17FEEIvtbRYINM=
+  - secure: eMCTnsHTf81W6HX2caNnU/+bS1WS93jBgfSqJlO/jrivWoNU4AzTQBRjY3lT+BCSn2OLKf7zm8+B2L0WFUs7vYu7pnUlpFH/KXnKnWhFZXIfcg7IUaOjrzv2CoVlmpouT9ofZlXxOE9gWdqeL+mHf3VqxFX8/hZ6XC3lPlgvURQ=

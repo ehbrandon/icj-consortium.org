@@ -1,4 +1,6 @@
 icj-consortium.org
 ==================
 
-Website for the International Criminal Justice Consotium. At the moment, this site is a placeholder.
+Website for the International Criminal Justice Consotium. 
+
+[![Build Status](https://travis-ci.org/sonnetmedia/icj-consortium.org.svg?branch=master)](https://travis-ci.org/sonnetmedia/icj-consortium.org)
