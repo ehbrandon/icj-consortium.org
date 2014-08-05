@@ -18,6 +18,6 @@ The ICJC is institutionally-based with member organisations formally joining the
 For more information contact <info@icj-consortium.org>
 
 
-Sign up to our mailing list to be notified when the site is updated:
+Join our mailing list to be notified when the site is updated:
 
 {% include global/mailing-list.html %}
