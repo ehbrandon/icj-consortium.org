@@ -15,6 +15,8 @@ The collective membership of the ICJC draws upon outstanding judicial, prosecuto
 
 The ICJC is institutionally-based with member organisations formally joining the Consortium. The ICJC Steering Committee facilitates communication with and between the national jurisdictions or the ICC and Consortium membership, ensuring that collaboration is efficiently developed and implemented.
 
+---
+
 ##### CONTACT
 
 For more information contact <info@icj-consortium.org>
