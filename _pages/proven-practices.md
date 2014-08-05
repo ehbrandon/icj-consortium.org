@@ -9,7 +9,8 @@ While much attention is focused on law and politics surrounding international cr
 
 The “*Proven Practices of International Criminal Justice*” initiative addresses this need. Through a combination of online roundtables, in-person conferences and commentary, the *Proven Practices* – from initial investigations to appellate hearings – will be made available on the ICJC web site for national and international practitioners to consult and use. This online resource, created by and for international criminal practitioners, will help the relatively new and still developing field of international criminal law become more effective and efficient.
 
+---
 
-Sign up to our mailing list to be notified when the Proven Practices online component goes live:
+Sign up to our mailing list to be notified when the *Proven Practices* online component goes live:
 
 {% include global/mailing-list.html %}
