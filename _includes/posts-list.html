@@ -1,0 +1,11 @@
+{% assign posts = site.posts %}
+<ul class="boxed-list">
+  {% for post in posts %}    
+      <a href="{{ post.url }}" target="_blank">
+        <li>
+          <strong>{{ post.title }}</strong><br />
+          {% if post.summary %}<small>{{ post.summary }}</small>{% endif %}
+        </li>
+      </a>
+  {% endfor %}
+</ul>

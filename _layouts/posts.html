@@ -1,20 +1,13 @@
 ---
 layout: default
-section: page
+section: posts
 ---
 {% if page.splash_image %}
     {% include global/page-splash.html %}
   {% endif %}
 <section class="content">
 
-
   <article class="hentry {% if page.class %}{{page.class}}{% endif %}">
-
-    {% for post in site.posts %}
-  <h4><a href="{{ post.url }}" style="color:#b23e3a;">{{post.title}}</a>{% if post.summary %}<br /><small>{{ post.summary }}</small>{% endif %}</h4>
-{% endfor %}
-
-
     {% include articles/article.html %}
     {% if page.include %}
   	{% include {{page.include}} %}
