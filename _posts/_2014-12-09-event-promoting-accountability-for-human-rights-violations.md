@@ -1,7 +1,7 @@
 ---
 title: "Event: Promoting Accountability for Human Rights Violations"
 layout: page
-category: Events
+category: Event
 summary: "Wednesday, Dec. 10th 6 - 8:30pm"
 ---
 ## Forging Effective and Efficient Litigation of International Atrocity Crimes
