@@ -8,15 +8,6 @@ participants: "Mr. Karel J. G. van Oosterom, Permanent Representative of the Net
 category: Event
 video: aHFC6t9Ccps
 ---
-### Sponsor
-
-The Royal Kingdom of the Netherlands, The City of The Hauge, International Criminal Justice Consortium
-
-### Participants
-
-Mr. Karel J. G. van Oosterom, Permanent Representative of the Netherlands to the United Nations in New York; Mr. Donald M. Ferencz, Convenor, The Global Institute for the Prevention of Aggression; The Honorable Judge Sang-Hyun Song, President of the International Criminal Court; The Honorable Judge Patricia Whalen, Special advisor to and former international judge of the War Crimes Chamber at the Court of Bosnia and Herzegovina; Ms. Brahmy Poologasingham, Director of Advancement and Counsel, Eastern Congo Initiative; Mr. Matevz Pezdirc, Head, EU Genocide Network Secretariat, Eurojust; Professor Linda Carter, Distinguished Professor of Law at the University of the Pacific McGeorge School of Law and Director of Pacific McGeorge Institute for Legal Infrastructure and International Justice.
-
-
 On December 10, 2014, the International Criminal Justice Consortium in partnership with the Royal Kingdom of The Netherlands and the City of The Hague co-sponsored an event entitled,  "Promoting Accountability for Human Rights Violations" in observance of International Human Rights Day. This event featured a keynote address by the Honorable Judge Sang-Hyun Song, the President of the International Criminal Court, as well as a panel discussion of experts in international criminal justice. 
 
 The evening event focused on the importance of international criminal justice to the larger human rights movement. Specifically, the event considered the necessity of a swift and effective international justice system to deter future mass human rights abuses. 
@@ -26,6 +17,14 @@ In his keynote address, Mr. Song highlighted the detrimental effect that interna
 <iframe width="640" height="360" src="https://www.youtube.com/embed/aHFC6t9Ccps?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 The distinguished panel members offer perspectives on a variety of facets of international criminal justice, including the process of establishing the Court of Bosnia and Herzegovenia as well as the ability of mobile courts in the Democratic Republic of the Congo to complement the ICC. The entire panel audio is available here.
+
+##### Sponsor
+
+The Royal Kingdom of the Netherlands, The City of The Hauge, International Criminal Justice Consortium
+
+##### Participants
+
+Mr. Karel J. G. van Oosterom, Permanent Representative of the Netherlands to the United Nations in New York; Mr. Donald M. Ferencz, Convenor, The Global Institute for the Prevention of Aggression; The Honorable Judge Sang-Hyun Song, President of the International Criminal Court; The Honorable Judge Patricia Whalen, Special advisor to and former international judge of the War Crimes Chamber at the Court of Bosnia and Herzegovina; Ms. Brahmy Poologasingham, Director of Advancement and Counsel, Eastern Congo Initiative; Mr. Matevz Pezdirc, Head, EU Genocide Network Secretariat, Eurojust; Professor Linda Carter, Distinguished Professor of Law at the University of the Pacific McGeorge School of Law and Director of Pacific McGeorge Institute for Legal Infrastructure and International Justice.
 
 ![](/assets/img/event-2014-12-10-page-1.png)
 ![](/assets/img/event-2014-12-10-page-2.png)
