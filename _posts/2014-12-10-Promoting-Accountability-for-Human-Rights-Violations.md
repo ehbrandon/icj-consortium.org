@@ -17,3 +17,6 @@ In his keynote address, Mr. Song highlighted the detrimental effect that interna
 <iframe width="640" height="360" src="https://www.youtube.com/embed/aHFC6t9Ccps?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 The distinguished panel members offer perspectives on a variety of facets of international criminal justice, including the process of establishing the Court of Bosnia and Herzegovenia as well as the ability of mobile courts in the Democratic Republic of the Congo to complement the ICC. The entire panel audio is available here.
+
+![](/assets/img/event-2014-12-10-page-1.png)
+![](/assets/img/event-2014-12-10-page-2.png)
