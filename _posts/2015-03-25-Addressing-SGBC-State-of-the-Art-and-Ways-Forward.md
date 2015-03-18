@@ -22,7 +22,7 @@ Themes to be discussed during the public panel include:
 
 >*How to develop and implement SGBC policies on the basis of evidence and lessons learned.*
 
-#### Participants
+#### Speakers
 
 **Fabricio Guariglia**, *Director of the Prosecutions Division of the Office of the Prosecutor, International Criminal Court*
 
