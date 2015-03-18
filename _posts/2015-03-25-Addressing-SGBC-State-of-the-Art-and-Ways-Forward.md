@@ -20,9 +20,9 @@ Themes to be discussed during the public panel include:
 >*How to develop and implement SGBC policies on the basis of evidence and lessons learned.*
 
 #####Registration is required, so we please ask interested parties to register at the following link - [**Register**](http://www.eventbrite.com/e/public-panel-sexual-and-gender-based-crimes-sgbc-the-state-of-the-art-and-ways-forward-registration-15925401304)
---
+---
 This is the second part of an event on "Sexual and Gender-Based Crimes (SGBC): The State-of-the-Art and Ways Forward". The preceding event is an invitation-only roundtable for experts. More information about this event can be found [here](http://thehagueinstituteforglobaljustice.org/index.php?page=Events-Events-Upcoming_events-High-Level_Roundtable:_Addressing_Sexual_and_Gender-Based_Crimes&pid=123&id=243)
---
+---
 
 ##### Sponsors
 
@@ -31,7 +31,7 @@ The Embassies of Botswana and Sweden to the Netherlands (the ad country co-focal
 ##### Participants
 
 **Fabricio Guariglia**, *Director of the Prosecutions Division of the Office of the Prosecutor, International Criminal Court*;
---
+---
 Brigid Inder, Special Gender Advisor to the Prosecutor of the International Criminal Court and Executive Director, Women's Initiatives for Gender Justice; 
 Michelle Jarvis, Principal Legal Counsel, International Criminal Tribunal for the Former Yugoslavia; 
 Birgitta Weibahr, Senior Policy Expert on Democracy and Human Rights, Swedish International Development Organisation (SIDA). 
