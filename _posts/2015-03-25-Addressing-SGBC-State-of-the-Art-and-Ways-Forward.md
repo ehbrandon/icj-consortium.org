@@ -34,7 +34,7 @@ Themes to be discussed during the public panel include:
 
 ---
 
-###### Registration is required, so we please ask interested parties to register at the following link - [**Register**](http://www.eventbrite.com/e/public-panel-sexual-and-gender-based-crimes-sgbc-the-state-of-the-art-and-ways-forward-registration-15925401304)
+###### Registration is required, so we kindly ask interested parties to register at the following link - [**Register**](http://www.eventbrite.com/e/public-panel-sexual-and-gender-based-crimes-sgbc-the-state-of-the-art-and-ways-forward-registration-15925401304)
 
 ---
 
