@@ -33,8 +33,10 @@ Themes to be discussed during the public panel include:
 **Dr. Jelke Boesten** (moderator), *Senior Lecturer in Emerging Economies and International Development, King’s College London*
 
 ---
-###### Registration is required, so we please ask interested parties to register at the following link - [**Register**](http://www.eventbrite.com/e/public-panel-sexual-and-gender-based-crimes-sgbc-the-state-of-the-art-and-ways-forward-registration-15925401304)
+######Registration is required, so we please ask interested parties to register at the following link - [**Register**](http://www.eventbrite.com/e/public-panel-sexual-and-gender-based-crimes-sgbc-the-state-of-the-art-and-ways-forward-registration-15925401304)
+
 ---
+
 This is the second part of an event on "Sexual and Gender-Based Crimes (SGBC): The State-of-the-Art and Ways Forward". The preceding event is an invitation-only roundtable for experts. More information about this event can be found [**here**](http://thehagueinstituteforglobaljustice.org/index.php?page=Events-Events-Upcoming_events-High-Level_Roundtable:_Addressing_Sexual_and_Gender-Based_Crimes&pid=123&id=243)
 
 ---
