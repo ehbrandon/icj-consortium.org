@@ -9,7 +9,9 @@ category: Event
 
 ---
 
-The Hague, The Netherlands, 25 March  2015 – The The Hague Institute for Global Justice, in conjunction with the International Criminal Justice Consortium, will host a panel discussion on addressing sexual and gender-based crimes (SGBC). This event is sponsored by the Embassies of Sweden and Botswana in The Netherlands (the ad country co-focal points for complementarity) with welcoming remarks by Dr. Abiodun Williams, President, The Hague Institute for Global Justice and opening remarks by H.E. Håkan Emsgård, Ambassador from the Swedish Embassy.
+The Hague, The Netherlands, 25 March 2015, 6-7pm – The Hague Institute for Global Justice, as a member of the International Criminal Justice Consortium, together with Sweden and Botswana – the ad country co-focal points for complementarity – will hold a panel discussion on addressing sexual and gender-based crimes (SGBC).
+ 
+This event will start with welcoming remarks by Dr. Abiodun Williams, President, The Hague Institute for Global Justice, and opening remarks by H.E. Håkan Emsgård, Ambassador, Embassy of Sweden.
 
 
 Themes to be discussed during the public panel include:
