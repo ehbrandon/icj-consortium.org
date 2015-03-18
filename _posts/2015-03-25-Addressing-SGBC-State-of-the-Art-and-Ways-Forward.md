@@ -13,13 +13,13 @@ The Hague, The Netherlands, 25 March  2015 – The The Hague Institute for Globa
 
 Themes to be discussed during the public panel include:
  
-*How the collective efforts of different actors – such as the ICC, implementers, and donors, in collaboration with national judicial systems – can contribute most effectively in the fight against impunity for SGBC*;
+>*How the collective efforts of different actors – such as the ICC, implementers, and donors, in collaboration with national judicial systems – can contribute most effectively in the fight against impunity for SGBC*;
 
-*The gaps and needs with regard to capacity-building in the area of SGBC*; and
+>*The gaps and needs with regard to capacity-building in the area of SGBC*; and
 
-*How to develop and implement SGBC policies on the basis of evidence and lessons learned.*
+>*How to develop and implement SGBC policies on the basis of evidence and lessons learned.*
 
-###Registration is required, so we please ask interested parties to register at the following link - [**Register**](http://www.eventbrite.com/e/public-panel-sexual-and-gender-based-crimes-sgbc-the-state-of-the-art-and-ways-forward-registration-15925401304)
+#####Registration is required, so we please ask interested parties to register at the following link - [**Register**](http://www.eventbrite.com/e/public-panel-sexual-and-gender-based-crimes-sgbc-the-state-of-the-art-and-ways-forward-registration-15925401304)
 
 This is the second part of an event on "Sexual and Gender-Based Crimes (SGBC): The State-of-the-Art and Ways Forward". The preceding event is an invitation-only roundtable for experts. More information about this event can be found [here](http://thehagueinstituteforglobaljustice.org/index.php?page=Events-Events-Upcoming_events-High-Level_Roundtable:_Addressing_Sexual_and_Gender-Based_Crimes&pid=123&id=243)
 
