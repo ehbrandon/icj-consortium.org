@@ -1,5 +1,5 @@
 ---
-title: Member Organizations
+title: Member Organisations
 layout: page
 include: member-list.html
 permalink: /member-organizations/
