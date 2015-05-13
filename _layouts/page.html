@@ -9,7 +9,7 @@ section: page
 
 
   <article class="hentry {% if page.class %}{{page.class}}{% endif %}">
-{% if page.category == 'home' %}
+{% if page.category == 'homeTK' %}
     {% for post in site.posts %}
   <h4><a href="{{ post.url }}" style="color:#b23e3a;">{{post.title}}</a>{% if post.summary %}<br /><small>{{ post.summary }}</small>{% endif %}</h4>
 {% endfor %}
